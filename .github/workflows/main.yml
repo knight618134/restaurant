@@ -26,4 +26,5 @@ jobs:
       - name: Deploy to Firebase Hosting
         run: |  
           npm install -g firebase-tools
+          firebase use --add teishoku-17e3d
           firebase deploy --token ${{ secrets.FIREBASE_TOKEN }}
