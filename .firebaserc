@@ -1,6 +1,5 @@
 {
   "projects": {
     "dev": "teishoku-17e3d",
-    "prod": "teishoku-prod"
   }
 }
