@@ -37,7 +37,7 @@ const menuItems = [
     name: "照燒雞肉定食",
     category: "定食",
     description: "入口即化的雞肉加上美味的照燒醬",
-    price: 190,
+    price: 194,
   },
   {
     id: 6,
