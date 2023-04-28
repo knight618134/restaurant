@@ -46,6 +46,27 @@ const menuItems = [
     description: "滑順的口感、濃郁的芝士香氣",
     price: 130,
   },
+  {
+    id: 7,
+    name: "芝士蛋糕",
+    category: "甜點",
+    description: "滑順的口感、濃郁的芝士香氣",
+    price: 130,
+  },
+  {
+    id: 8,
+    name: "芝士蛋糕",
+    category: "甜點",
+    description: "滑順的口感、濃郁的芝士香氣",
+    price: 130,
+  },
+  {
+    id: 9,
+    name: "芝士蛋糕",
+    category: "甜點",
+    description: "滑順的口感、濃郁的芝士香氣",
+    price: 130,
+  },
 ];
 
 function App() {
