@@ -34,12 +34,6 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Download Build
-        uses: actions/download-artifact@v2
-        with:
-          name: build
-          path: build
       - name: GitHub Action for Firebase
         uses: w9jds/firebase-action@v11.24.1
         with:
